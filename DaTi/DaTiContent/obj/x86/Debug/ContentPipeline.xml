@@ -1,0 +1,946 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>k..jpg</Source>
+      <Name>k.</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\k..xnb</Output>
+      <Time>2010-11-12T20:07:30.0722656+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kb.jpg</Source>
+      <Name>kb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kb.xnb</Output>
+      <Time>2010-11-12T20:07:30.102539+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kh.jpg</Source>
+      <Name>kh</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kh.xnb</Output>
+      <Time>2010-11-12T20:07:30.1054687+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ki.jpg</Source>
+      <Name>ki</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\ki.xnb</Output>
+      <Time>2010-11-12T20:07:30.109375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kj.jpg</Source>
+      <Name>kj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kj.xnb</Output>
+      <Time>2010-11-12T20:07:30.1132812+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kk.jpg</Source>
+      <Name>kk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kk.xnb</Output>
+      <Time>2010-11-12T20:07:30.1210937+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kkerdo.jpg</Source>
+      <Name>kkerdo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kkerdo.xnb</Output>
+      <Time>2010-11-12T20:07:30.125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kl.jpg</Source>
+      <Name>kl</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kl.xnb</Output>
+      <Time>2010-11-12T20:07:30.1279296+01:00</Time>
+    </Item>
+    <Item>
+      <Source>km.jpg</Source>
+      <Name>km</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\km.xnb</Output>
+      <Time>2010-11-12T20:07:30.1318359+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kn.jpg</Source>
+      <Name>kn</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kn.xnb</Output>
+      <Time>2010-11-12T20:07:30.1347656+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ko.jpg</Source>
+      <Name>ko</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\ko.xnb</Output>
+      <Time>2010-11-12T20:07:30.1386718+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kp.jpg</Source>
+      <Name>kp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kp.xnb</Output>
+      <Time>2010-11-12T20:07:30.1445312+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ku.jpg</Source>
+      <Name>ku</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\ku.xnb</Output>
+      <Time>2010-11-12T20:07:30.1484375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ky.jpg</Source>
+      <Name>ky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\ky.xnb</Output>
+      <Time>2010-11-12T20:07:30.0546875+01:00</Time>
+    </Item>
+    <Item>
+      <Source>!.jpg</Source>
+      <Name>!</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\!.xnb</Output>
+      <Time>2010-11-12T20:07:43.0380859+01:00</Time>
+    </Item>
+    <Item>
+      <Source>'.jpg</Source>
+      <Name>'</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\'.xnb</Output>
+      <Time>2010-11-12T20:07:43.0439453+01:00</Time>
+    </Item>
+    <Item>
+      <Source>B.jpg</Source>
+      <Name>B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\B.xnb</Output>
+      <Time>2010-11-12T20:07:43.0878906+01:00</Time>
+    </Item>
+    <Item>
+      <Source>H.jpg</Source>
+      <Name>H</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\H.xnb</Output>
+      <Time>2010-11-12T20:07:43.0947265+01:00</Time>
+    </Item>
+    <Item>
+      <Source>I.jpg</Source>
+      <Name>I</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\I.xnb</Output>
+      <Time>2010-11-12T20:07:43.1396484+01:00</Time>
+    </Item>
+    <Item>
+      <Source>J.jpg</Source>
+      <Name>J</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\J.xnb</Output>
+      <Time>2010-11-12T20:07:43.1484375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>K.jpg</Source>
+      <Name>K</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\K.xnb</Output>
+      <Time>2010-11-12T20:07:43.1552734+01:00</Time>
+    </Item>
+    <Item>
+      <Source>L.jpg</Source>
+      <Name>L</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\L.xnb</Output>
+      <Time>2010-11-12T20:07:43.1660156+01:00</Time>
+    </Item>
+    <Item>
+      <Source>M.jpg</Source>
+      <Name>M</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\M.xnb</Output>
+      <Time>2010-11-12T20:07:43.1728515+01:00</Time>
+    </Item>
+    <Item>
+      <Source>N.jpg</Source>
+      <Name>N</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\N.xnb</Output>
+      <Time>2010-11-12T20:07:43.1826171+01:00</Time>
+    </Item>
+    <Item>
+      <Source>O.jpg</Source>
+      <Name>O</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\O.xnb</Output>
+      <Time>2010-11-12T20:07:43.1894531+01:00</Time>
+    </Item>
+    <Item>
+      <Source>P.jpg</Source>
+      <Name>P</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\P.xnb</Output>
+      <Time>2010-11-12T20:07:43.1923828+01:00</Time>
+    </Item>
+    <Item>
+      <Source>U.jpg</Source>
+      <Name>U</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\U.xnb</Output>
+      <Time>2010-11-12T20:07:43.196289+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Y.jpg</Source>
+      <Name>Y</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\Y.xnb</Output>
+      <Time>2010-11-12T20:07:43.0273437+01:00</Time>
+    </Item>
+    <Item>
+      <Source>$.jpg</Source>
+      <Name>$</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\$.xnb</Output>
+      <Time>2010-11-12T20:07:55.4580078+01:00</Time>
+    </Item>
+    <Item>
+      <Source>@.jpg</Source>
+      <Name>@</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\@.xnb</Output>
+      <Time>2010-11-12T20:07:55.4638671+01:00</Time>
+    </Item>
+    <Item>
+      <Source>0.jpg</Source>
+      <Name>0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\0.xnb</Output>
+      <Time>2010-11-12T20:07:55.4873046+01:00</Time>
+    </Item>
+    <Item>
+      <Source>2.jpg</Source>
+      <Name>2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\2.xnb</Output>
+      <Time>2010-11-12T20:07:55.4990234+01:00</Time>
+    </Item>
+    <Item>
+      <Source>3.jpg</Source>
+      <Name>3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\3.xnb</Output>
+      <Time>2010-11-12T20:07:55.5048828+01:00</Time>
+    </Item>
+    <Item>
+      <Source>4.jpg</Source>
+      <Name>4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\4.xnb</Output>
+      <Time>2010-11-12T20:07:55.5175781+01:00</Time>
+    </Item>
+    <Item>
+      <Source>5.jpg</Source>
+      <Name>5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\5.xnb</Output>
+      <Time>2010-11-12T20:07:55.5234375+01:00</Time>
+    </Item>
+    <Item>
+      <Source>6.jpg</Source>
+      <Name>6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\6.xnb</Output>
+      <Time>2010-11-12T20:07:55.5292968+01:00</Time>
+    </Item>
+    <Item>
+      <Source>7.jpg</Source>
+      <Name>7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\7.xnb</Output>
+      <Time>2010-11-12T20:07:55.5380859+01:00</Time>
+    </Item>
+    <Item>
+      <Source>8.jpg</Source>
+      <Name>8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\8.xnb</Output>
+      <Time>2010-11-12T20:07:55.5439453+01:00</Time>
+    </Item>
+    <Item>
+      <Source>9.jpg</Source>
+      <Name>9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\9.xnb</Output>
+      <Time>2010-11-12T20:07:55.5478515+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bku.jpg</Source>
+      <Name>bku</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\bku.xnb</Output>
+      <Time>2010-11-12T20:07:55.5566406+01:00</Time>
+    </Item>
+    <Item>
+      <Source>csillag.jpg</Source>
+      <Name>csillag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\csillag.xnb</Output>
+      <Time>2010-11-12T20:07:55.4482421+01:00</Time>
+    </Item>
+    <Item>
+      <Source>_.jpg</Source>
+      <Name>_</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\_.xnb</Output>
+      <Time>2010-11-12T20:07:55.4804687+01:00</Time>
+    </Item>
+    <Item>
+      <Source>#.jpg</Source>
+      <Name>#</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\#.xnb</Output>
+      <Time>2010-11-12T20:08:08.1982421+01:00</Time>
+    </Item>
+    <Item>
+      <Source>%.jpg</Source>
+      <Name>%</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\%.xnb</Output>
+      <Time>2010-11-12T20:08:08.2050781+01:00</Time>
+    </Item>
+    <Item>
+      <Source>(.jpg</Source>
+      <Name>(</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\(.xnb</Output>
+      <Time>2010-11-12T20:08:08.211914+01:00</Time>
+    </Item>
+    <Item>
+      <Source>).jpg</Source>
+      <Name>)</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\).xnb</Output>
+      <Time>2010-11-12T20:08:08.2460937+01:00</Time>
+    </Item>
+    <Item>
+      <Source>;.jpg</Source>
+      <Name>;</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\;.xnb</Output>
+      <Time>2010-11-12T20:08:08.2568359+01:00</Time>
+    </Item>
+    <Item>
+      <Source>+.jpg</Source>
+      <Name>+</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\+.xnb</Output>
+      <Time>2010-11-12T20:08:08.2636718+01:00</Time>
+    </Item>
+    <Item>
+      <Source>-.jpg</Source>
+      <Name>-</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\-.xnb</Output>
+      <Time>2010-11-12T20:08:08.2519531+01:00</Time>
+    </Item>
+    <Item>
+      <Source>=.jpg</Source>
+      <Name>=</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\=.xnb</Output>
+      <Time>2010-11-12T20:08:08.2714843+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bkacsa.jpg</Source>
+      <Name>bkacsa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\bkacsa.xnb</Output>
+      <Time>2010-11-12T20:08:08.2763671+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bper.jpg</Source>
+      <Name>bper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\bper.xnb</Output>
+      <Time>2010-11-12T20:08:08.2822265+01:00</Time>
+    </Item>
+    <Item>
+      <Source>jkacsa.jpg</Source>
+      <Name>jkacsa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\jkacsa.xnb</Output>
+      <Time>2010-11-12T20:08:08.290039+01:00</Time>
+    </Item>
+    <Item>
+      <Source>jku.jpg</Source>
+      <Name>jku</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\jku.xnb</Output>
+      <Time>2010-11-12T20:08:08.3134765+01:00</Time>
+    </Item>
+    <Item>
+      <Source>jper.jpg</Source>
+      <Name>jper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\jper.xnb</Output>
+      <Time>2010-11-12T20:08:08.3310546+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ketaposztrof.jpg</Source>
+      <Name>ketaposztrof</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\ketaposztrof.xnb</Output>
+      <Time>2010-11-12T20:08:08.3349609+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kettospont.jpg</Source>
+      <Name>kettospont</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kettospont.xnb</Output>
+      <Time>2010-11-12T20:08:08.1914062+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ka.jpg</Source>
+      <Name>ka</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\ka.xnb</Output>
+      <Time>2010-11-12T20:08:19.7636718+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kc.jpg</Source>
+      <Name>kc</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kc.xnb</Output>
+      <Time>2010-11-12T20:08:19.774414+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kd.jpg</Source>
+      <Name>kd</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kd.xnb</Output>
+      <Time>2010-11-12T20:08:19.7773437+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ke.jpg</Source>
+      <Name>ke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\ke.xnb</Output>
+      <Time>2010-11-12T20:08:19.78125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kf.jpg</Source>
+      <Name>kf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kf.xnb</Output>
+      <Time>2010-11-12T20:08:19.7861328+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kg.jpg</Source>
+      <Name>kg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kg.xnb</Output>
+      <Time>2010-11-12T20:08:19.790039+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kq.jpg</Source>
+      <Name>kq</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kq.xnb</Output>
+      <Time>2010-11-12T20:08:19.7929687+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kr.jpg</Source>
+      <Name>kr</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kr.xnb</Output>
+      <Time>2010-11-12T20:08:19.796875+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ks.jpg</Source>
+      <Name>ks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\ks.xnb</Output>
+      <Time>2010-11-12T20:08:19.7998046+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kt.jpg</Source>
+      <Name>kt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kt.xnb</Output>
+      <Time>2010-11-12T20:08:19.8037109+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kv.jpg</Source>
+      <Name>kv</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kv.xnb</Output>
+      <Time>2010-11-12T20:08:19.8076171+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kw.jpg</Source>
+      <Name>kw</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kw.xnb</Output>
+      <Time>2010-11-12T20:08:19.8115234+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kx.jpg</Source>
+      <Name>kx</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kx.xnb</Output>
+      <Time>2010-11-12T20:08:19.8144531+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kz.jpg</Source>
+      <Name>kz</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kz.xnb</Output>
+      <Time>2010-11-12T20:08:19.8183593+01:00</Time>
+    </Item>
+    <Item>
+      <Source>A.jpg</Source>
+      <Name>A</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\A.xnb</Output>
+      <Time>2010-11-12T20:08:31.6552734+01:00</Time>
+    </Item>
+    <Item>
+      <Source>C.jpg</Source>
+      <Name>C</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\C.xnb</Output>
+      <Time>2010-11-12T20:08:31.6601562+01:00</Time>
+    </Item>
+    <Item>
+      <Source>D.jpg</Source>
+      <Name>D</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\D.xnb</Output>
+      <Time>2010-11-12T20:08:31.6630859+01:00</Time>
+    </Item>
+    <Item>
+      <Source>E.jpg</Source>
+      <Name>E</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\E.xnb</Output>
+      <Time>2010-11-12T20:08:31.6669921+01:00</Time>
+    </Item>
+    <Item>
+      <Source>F.jpg</Source>
+      <Name>F</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\F.xnb</Output>
+      <Time>2010-11-12T20:08:31.6708984+01:00</Time>
+    </Item>
+    <Item>
+      <Source>G.jpg</Source>
+      <Name>G</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\G.xnb</Output>
+      <Time>2010-11-12T20:08:31.6748046+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Q.jpg</Source>
+      <Name>Q</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\Q.xnb</Output>
+      <Time>2010-11-12T20:08:31.6777343+01:00</Time>
+    </Item>
+    <Item>
+      <Source>R.jpg</Source>
+      <Name>R</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\R.xnb</Output>
+      <Time>2010-11-12T20:08:31.6816406+01:00</Time>
+    </Item>
+    <Item>
+      <Source>S.jpg</Source>
+      <Name>S</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\S.xnb</Output>
+      <Time>2010-11-12T20:08:31.6855468+01:00</Time>
+    </Item>
+    <Item>
+      <Source>T.jpg</Source>
+      <Name>T</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\T.xnb</Output>
+      <Time>2010-11-12T20:08:31.6884765+01:00</Time>
+    </Item>
+    <Item>
+      <Source>V.jpg</Source>
+      <Name>V</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\V.xnb</Output>
+      <Time>2010-11-12T20:08:31.6933593+01:00</Time>
+    </Item>
+    <Item>
+      <Source>W.jpg</Source>
+      <Name>W</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\W.xnb</Output>
+      <Time>2010-11-12T20:08:31.696289+01:00</Time>
+    </Item>
+    <Item>
+      <Source>X.jpg</Source>
+      <Name>X</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\X.xnb</Output>
+      <Time>2010-11-12T20:08:31.6992187+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Z.jpg</Source>
+      <Name>Z</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\Z.xnb</Output>
+      <Time>2010-11-12T20:08:31.703125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>balk_ures.jpg</Source>
+      <Name>balk_ures</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\balk_ures.xnb</Output>
+      <Time>2010-11-12T20:08:41.0058593+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bal_ures.jpg</Source>
+      <Name>bal_ures</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\bal_ures.xnb</Output>
+      <Time>2010-11-12T20:08:40.9980468+01:00</Time>
+    </Item>
+    <Item>
+      <Source>jobbk_ures.jpg</Source>
+      <Name>jobbk_ures</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\jobbk_ures.xnb</Output>
+      <Time>2010-11-12T20:08:41.015625+01:00</Time>
+    </Item>
+    <Item>
+      <Source>jobb_ures.jpg</Source>
+      <Name>jobb_ures</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\jobb_ures.xnb</Output>
+      <Time>2010-11-12T20:08:41.0117187+01:00</Time>
+    </Item>
+    <Item>
+      <Source>analog.png</Source>
+      <Name>analog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\analog.xnb</Output>
+      <Time>2010-11-12T20:08:48.0810546+01:00</Time>
+    </Item>
+    <Item>
+      <Source>balpanel.png</Source>
+      <Name>balpanel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\balpanel.xnb</Output>
+      <Time>2010-11-12T20:09:08.9335937+01:00</Time>
+    </Item>
+    <Item>
+      <Source>jobbpanel.png</Source>
+      <Name>jobbpanel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\jobbpanel.xnb</Output>
+      <Time>2010-11-12T20:09:38.3847656+01:00</Time>
+    </Item>
+    <Item>
+      <Source>notfound.jpg</Source>
+      <Name>notfound</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\notfound.xnb</Output>
+      <Time>2010-11-12T20:45:42.1777343+01:00</Time>
+    </Item>
+    <Item>
+      <Source>animsheet.png</Source>
+      <Name>animsheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\animsheet.xnb</Output>
+      <Time>2010-11-14T20:56:19.0389764+01:00</Time>
+    </Item>
+    <Item>
+      <Source>hatter.jpg</Source>
+      <Name>hatter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\hatter.xnb</Output>
+      <Time>2010-11-13T17:35:39.9355468+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Comic Sans MS.spritefont</Source>
+      <Name>Comic Sans MS</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\krisz gépe\documents\visual studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\Comic Sans MS.xnb</Output>
+      <Time>2010-11-12T20:17:16.1542968+01:00</Time>
+    </Item>
+    <Item>
+      <Source>1.jpg</Source>
+      <Name>1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Krisz gépe\Documents\Visual Studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\1.xnb</Output>
+      <Time>2010-11-13T17:40:39.3945312+01:00</Time>
+    </Item>
+    <Item>
+      <Source>kijelolovalto.wav</Source>
+      <Name>kijelolovalto</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Krisz gépe\Documents\Visual Studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\kijelolovalto.xnb</Output>
+      <Time>2010-11-16T15:14:36.9277343+01:00</Time>
+    </Item>
+    <Item>
+      <Source>click.wav</Source>
+      <Name>click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Krisz gépe\Documents\Visual Studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\click.xnb</Output>
+      <Time>2010-11-16T15:30:57.5595703+01:00</Time>
+    </Item>
+    <Item>
+      <Source>click2.wav</Source>
+      <Name>click2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Krisz gépe\Documents\Visual Studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\click2.xnb</Output>
+      <Time>2010-11-17T19:41:40.5888671+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Krisz gépe\Documents\Visual Studio 2010\Projects\DaTi\DaTi\DaTiContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Krisz gépe\Documents\Visual Studio 2010\Projects\DaTi\DaTi\DaTi\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Krisz gépe\Documents\Visual Studio 2010\Projects\DaTi\DaTi\DaTiContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Krisz gépe\Documents\Visual Studio 2010\Projects\DaTi\DaTi\DaTi\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-10-31T18:07:16.9806719+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
